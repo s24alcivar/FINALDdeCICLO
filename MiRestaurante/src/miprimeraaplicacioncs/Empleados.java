@@ -1,12 +1,11 @@
 
 package miprimeraaplicacioncs;
-
-/**
- *
- * @author USUARIO
- */
 import java.sql.*;
-
+/*PROYECTO FINAL CICLO
+-- Objetos y Abstraccion de Datos --
+Calculo de Costes
+Esneyder Alcivar Velez
+*/
 public class Empleados {
 
     private int id_empleado;

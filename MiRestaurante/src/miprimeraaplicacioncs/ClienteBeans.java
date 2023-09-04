@@ -1,12 +1,10 @@
 package miprimeraaplicacioncs;
-
-/**
- *
- * @author Usuario
- */
 import java.sql.*;
-
-
+/*PROYECTO FINAL CICLO
+-- Objetos y Abstraccion de Datos --
+Calculo de Costes
+Esneyder Alcivar Velez
+*/
 public class ClienteBeans {
     
     private int Id_Cliente;

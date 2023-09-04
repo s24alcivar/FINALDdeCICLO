@@ -1,6 +1,10 @@
 
 package miprimeraaplicacioncs;
-
+/*PROYECTO FINAL CICLO
+-- Objetos y Abstraccion de Datos --
+Calculo de Costes
+Esneyder Alcivar Velez
+*/
 import java.sql.*;
 public class accesobd {
     private final String host;
