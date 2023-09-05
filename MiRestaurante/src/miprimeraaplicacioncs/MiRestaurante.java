@@ -1,5 +1,9 @@
 package miprimeraaplicacioncs;
-
+/*
+PROYECTO FINAL OBJETOS Y ABSTRACCION DE DATOS
+Jorge Vinueza :v
+-----------------------------------
+ */
 import java.sql.*;
 
 public class MiRestaurante {
